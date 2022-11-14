@@ -1,0 +1,7 @@
+﻿  Lecture2.cpp
+C:\Users\Chris\Desktop\C++\Lecture 2\Lecture 2\Lecture2.cpp(20,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chris\Desktop\C++\Lecture 2\Lecture 2\Lecture2.cpp(76,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Desktop\C++\Lecture 2\Lecture 2\Lecture2.cpp(77,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Desktop\C++\Lecture 2\Lecture 2\Lecture2.cpp(78,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chris\Desktop\C++\Lecture 2\Lecture 2\Lecture2.cpp(79,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lecture 2.vcxproj -> C:\Users\Chris\Desktop\C++\Lecture 2\x64\Debug\Lecture 2.exe
